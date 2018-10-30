@@ -18,4 +18,4 @@ class_names = ['T-shirt/top', 'Trouser', 'Pullover', 'Dress', 'Coat',
 
 train_images.shape
 
-print len(train_labels)
+print str(len(train_labels))
